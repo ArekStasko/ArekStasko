@@ -18,4 +18,4 @@
 
 <br/>
 
-<img align="center" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=ArekStasko&show_icons=true&hide_border=true&theme=dark" />
+<img align="right" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=ArekStasko&show_icons=true&hide_border=true&theme=dark" />
