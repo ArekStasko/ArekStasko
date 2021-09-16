@@ -4,7 +4,7 @@
 - 🔍 I'm looking for internship or other opportunity to get more experience
 - 👨‍💻 I'm interested in computer science especially web development
 - 🌱 My hobbies: plants (mostly avocados), electronics (arduino, raspberry pi in the future), books            (self-development and fantasy)
-- 🍅 I'm a fan of the pomodoro technique
+- 🍅 I'm a fan of the pomodoro learning technique
 - 👯 I'm looking for people who want to create projects
 
 
