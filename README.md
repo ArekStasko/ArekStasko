@@ -1,7 +1,6 @@
 ## Hello World ! - I'm Arek 👋
 
 ### I'm 19 - and I'm computer science student 👨‍🎓
-- 🔍 I'm looking for internship or other opportunities to get more experience
 - 👨‍💻 I'm interested in computer science
 - 🌱 My hobbies: plants (mostly avocados), electronics (arduino, raspberry pi in the future), books     
 - 🍅 I'm a fan of the pomodoro learning technique
