@@ -1,6 +1,6 @@
 ## Hello World ! - I'm Arek 👋
 
-### I'm 19 - and I'm computer science student 👨‍🎓
+### I'm 19 - and I'm Junior .NET dev and computer science student 👨‍🎓
 - 👨‍💻 I'm interested in computer science
 - 🌱 My hobbies: plants (mostly avocados), electronics (arduino, raspberry pi in the future), books     
 - 🍅 I'm a fan of the pomodoro learning technique
