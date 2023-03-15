@@ -1,11 +1,11 @@
 ## Hello World ! - I'm Arek 👋
 
-### I'm 20 - and I'm Junior .NET dev and computer science student 👨‍🎓
+### I'm 20 - and I'm Junior FullStack (.NET / ReactJS) dev and computer science student 👨‍🎓
 - 👨‍💻 I'm interested in computer science
-- 🌱 My hobbies: plants (mostly avocados), electronics (arduino, raspberry pi in the future), books     
+- 🌱 My hobbies: IoT ( esp32 with nanoFramework ), plants (mostly avocados), learning, birds     
 - 🍅 I'm a fan of the pomodoro learning technique
 - 👯 I'm looking for people who want to collaborate and create projects
 
 
 
-<img align="left" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=ArekStasko&show_icons=true&hide_border=true&theme=dark" />
+![Arek's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArekStasko&show_icons=true)
