@@ -8,4 +8,4 @@
 
 
 
-![Arek's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArekStasko&show_icons=true)
+![Arek's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArekStasko&show_icons=true&theme=tokyonight)
