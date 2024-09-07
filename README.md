@@ -5,6 +5,7 @@
 - 🌱 My hobbies: IoT ( esp32 ), plants, learning ( Electronics, Algorithms, Computer related topics ), birds ( zebra finches, canaries cockatiel ), Boxing     
 - 🍅 I'm a fan of the pomodoro learning technique
 - 🏯 Fan of Japanese Culture
+- 📝 Student at Polish-Japanese Academy of Information Technology
 - 👯 I'm looking for people who want to collaborate and create projects
 
 Currently i am working on PlantCare project that will help me to take care of my plants. I am
