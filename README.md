@@ -1,6 +1,6 @@
 ## Hello World ! - I'm Arek 👋
 
-### I'm 22 - and I'm Junior FullStack (.NET / ReactTS) dev and computer science student 👨‍🎓
+### I'm 22 - and I'm FullStack (.NET / ReactTS) dev and computer science student 👨‍🎓
 - 👨‍💻 I'm interested in computer science 
 - 🌱 My hobbies: IoT ( esp32 ), plants, learning ( Electronics, Algorithms, Computer related topics ), birds ( zebra finches, canaries cockatiel ), Boxing     
 - 🍅 I'm a fan of the pomodoro learning technique
